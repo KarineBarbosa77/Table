@@ -1,0 +1,20 @@
+h1{
+    text-align: center; /*Centraliza o título h1*/
+}
+
+table {
+    width: 100%;
+    
+}
+
+td{
+    width: 16%;
+    text-align: center;
+    padding: 5px;
+    
+}
+table, th, td{
+    border: 2px solid black; 
+    border-collapse: collapse;
+    padding: 5px;
+}
